@@ -4,9 +4,9 @@ RoboCut turns long recordings and Twitch VODs into shorter edits you can review 
 
 ## Download RoboCut
 
-**[Download RoboCut 1.0.1 for Windows (64-bit)](https://github.com/codingtime6969/robocut-releases/releases/download/v1.0.1/RoboCut-Setup-1.0.1-x64.exe)**
+**[Download RoboCut 1.2.0 for Windows (64-bit)](https://github.com/codingtime6969/robocut-releases/releases/download/v1.2.0/RoboCut-Setup-1.2.0-x64.exe)**
 
-[Release notes, checksums and component sources](https://github.com/codingtime6969/robocut-releases/releases/tag/v1.0.1) · [Latest release](https://github.com/codingtime6969/robocut-releases/releases/latest)
+[Release notes, checksums and component sources](https://github.com/codingtime6969/robocut-releases/releases/tag/v1.2.0) · [Latest release](https://github.com/codingtime6969/robocut-releases/releases/latest)
 
 Save your project and close RoboCut before installing an update. The installer includes its video-processing components. Downloading it does not purchase or activate paid access.
 
